@@ -1,3 +1,3 @@
-:heart:
-:+1:
-:smile:
+- :heart:
+- :+1:
+* :smile:
